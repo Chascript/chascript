@@ -28,7 +28,7 @@
   * Support Worker
   * Senior Support Worker
   * Delivery Driver (Currently)
-* Ive got A levels in Math, ICT and Biology
+* I've got A levels in Math, ICT and Biology
 
 ### Other interests of mine...
 :poodle:  I have such a huge love for dogs (hence my web app!)<br />
