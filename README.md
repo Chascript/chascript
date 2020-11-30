@@ -1,7 +1,7 @@
 
 # Hi I'm Conan :wave:
 
-I'm a self taught developer begining in November 2019 when I was introduced to software development as a possible career change. After using my free time going though development courses I was hooked and haven't looked back. Since then I've gone through more courses, lots of reading through documentation and other peoples work, plus following YouTube videos and creating alongside with them. Fast forward to the present and I'm working on a web app called 'Oh My Dawg', a community site for dogs. By working on this project I've combined and developed my learnt skills. Oh My Dawg is deployed on AWS using Docker, the back end is an Express web service working with a React front end. (Am focusing on getting this live end of November 2020). 
+I'm a self taught developer begining in November 2019 when I was introduced to software development as a possible career change. After using my free time going though development courses I was hooked and haven't looked back. Since then I've gone through more courses, lots of reading through documentation and other peoples work, plus following YouTube videos and creating alongside with them. Fast forward to the present and I'm working on a web app called 'Oh My Dawg', a community site for dogs. By working on this project I've combined and developed my learnt skills. Oh My Dawg is deployed on AWS using Docker, the back end is an Express web service working with a React front end.
 
 ### What is 'Oh My Dawg'? :poodle:
 * Being developed with ReactJS for frontend, Node.js using express for rest API for backend
