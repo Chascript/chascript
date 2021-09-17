@@ -1,7 +1,7 @@
 
 # Hi I'm Conan :wave:
 
-I'm a self-taught developer beginning in November 2019 when I was introduced to software development as a possible career change. After using my free time going through development courses I was hooked and haven't looked back. Since then I've gone through more courses, lots of reading through documentation and other peoples work, plus following YouTube videos and creating alongside them. Fast forward to the present and I'm working on a web app called 'Oh My Dawg', a community site for dogs. By working on this project I've combined and developed my learnt skills. Oh My Dawg is deployed on AWS using Docker, the back end is an Express web service working with a React front end.
+I'm a self-taught developer beginning in November 2019 when I was introduced to software development as a possible career change. After using my free time going through development courses I was hooked and haven't looked back. Since then I've gone through more courses, lots of reading through documentation and other peoples work, plus following YouTube videos and creating alongside them. Fast forward to the present and I'm now a Juinior Developer working for [Blink SEO](https://www.blinkseo.co.uk/) and enrolled on a software development apprenticeship with [Just IT](https://www.justit.co.uk/). I am also working on a web app called 'Oh My Dawg', a community site for dogs. By working on this project I've combined and developed my learnt skills. Oh My Dawg is deployed on AWS using Docker, the back end is an Express web service working with a React front end.
 
 ### What is 'Oh My Dawg'? :poodle:
 * Being developed with ReactJS for frontend, Node.js using express for rest API for backend
@@ -39,19 +39,20 @@ I'm a self-taught developer beginning in November 2019 when I was introduced to 
 
 ### My web apps
 * A site for the dog community - [Oh My Dawg](www.ohmydawg.co.uk) :poodle:
-* To come......A random artist generator app
 
 ### Employment/Education
 * I've been in continual employment since 2010 working as a: 
   * Domestic
   * Support Worker
   * Senior Support Worker
-  * Delivery Driver (Currently)
+  * Delivery Driver
 * I've got A levels in Math, ICT and Biology
+* I'm now a Junior Developer working for [Blink SEO](https://www.blinkseo.co.uk/)
 
 ### Other interests of mine...
 :poodle:  I have such a huge love for dogs (hence my web app!)<br />
-:paw_prints: Mantrailing<br />
+:paw_prints: Agility<br />
 :video_game:  Exploration and story-driven video games<br />
 :bike:  Cycling whether it be on-road or in the woods<br />
+:running:  Running with my dog :poodle:<br />
 :beers: A good beer to finish a hardworking week<br />
