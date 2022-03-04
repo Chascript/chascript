@@ -38,7 +38,7 @@ I'm a self-taught developer beginning in November 2019 when I was introduced to 
 * Videos on explaining skills I've learnt and my Code Signal puzzle-solving on [YouTube](https://www.youtube.com/channel/UCgvj4wfFY450fZYXojwhEvA)
 
 ### My web apps
-* A site for the dog community - [Oh My Dawg](www.ohmydawg.co.uk) :poodle:
+* A site for the dog community - [Oh My Dawg](www.ohmydawg.co.uk) :poodle: (currently offline)
 
 ### Employment/Education
 * I've been in continual employment since 2010 working as a: 
