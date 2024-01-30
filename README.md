@@ -1,58 +1,22 @@
+ # :wave: Hi I'm Conan (Co-nun)
 
-# Hi I'm Conan :wave:
+:computer: I am a Front End Engineer at [Blink SEO](https://www.blinkseo.co.uk/), where my journey began as a Junior Developer. I successfully completed a software development apprenticeship with [Just IT](https://www.justit.co.uk/) while contributing to various projects at Blink SEO. Among these, a standout achievement was the development of a dynamic SEO friendly faceted navigation component within Shopify, without relying on JavaScript.
 
-I'm a self-taught developer beginning in November 2019 when I was introduced to software development as a possible career change. After using my free time going through development courses I was hooked and haven't looked back. Since then I've gone through more courses, lots of reading through documentation and other peoples work, plus following YouTube videos and creating alongside them. Fast forward to the present and I'm now a Juinior Developer working for [Blink SEO](https://www.blinkseo.co.uk/) and enrolled on a software development apprenticeship with [Just IT](https://www.justit.co.uk/). I am also working on a web app called 'Oh My Dawg', a community site for dogs. By working on this project I've combined and developed my learnt skills. Oh My Dawg is deployed on AWS using Docker, the back end is an Express web service working with a React front end.
+:book: Driven by a passion for continuous learning, I am currently immersed in Harvard's CS50 course, strengthening my foundational knowledge. Following the completion of CS50, my focus will shift towards mastering Next.js, expanding my skill set to create dynamic and efficient web applications.
 
-### What is 'Oh My Dawg'? :poodle:
-* Being developed with ReactJS for frontend, Node.js using express for rest API for backend
-* Currently:
-  * Multiple Dogs can be uploaded under 1 username during the signup process
-  * Anyone can vote on other dogs once
-* I plan to:
-  * Develop a profile page for the user 
-  * Enable users to search for other dogs using names/breed
-  * Enable users to edit their dogs
-  * Users to add one another as 'pals'
-  * Develop a blog-like component that displays all posts and filtered posts for pals only
-  * Users to message each other and plan walks
+:poodle: Beyond the realm of coding, I find joy in the company of my two poodles and maintain a lifestyle through activities such as running, agility and challenging myself in the world of CrossFit.
+
+:relaxed: I am always eager to explore new opportunities and challenges.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/punkrockerpoodles) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/conan-chambers-6b5a421a1) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Chascript&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
-## What I've learnt
-* Developing with ReactJS
-* Understanding and using Node.js
-* When I come across an error to understand why it is there and how to remedy it.
-* How to containerised an App in Docker and deploy on a single EC2 instance
-* How to implement NginX proxy pass
-* SSL certs and implementing them with certbot
-* Creating a script to build and run an app with one command
-
-## What I'm going to learn
-* How to implement all features listed on Oh My Dawgs' [roadmap](https://github.com/Chascript/ohmydawg)
-* Auth0 to implement within Oh My Dawg (A secure user sign-in process)
-* Deeper knowledge of JavaScript
-* More work on problem-solving using Code Signal
-
-## Find me in other places 
-* Sharing updates on [LinkedIn](https://www.linkedin.com/in/conan-chambers-6b5a421a1/) and [Twitter](https://twitter.com/Chascript)
-* Writing up course work on [Codepen](https://codepen.io/Chascript/pens/showcase)
-* Puzzle solving on [CodeSignal](https://app.codesignal.com/profile/chascript)
-* Videos on explaining skills I've learnt and my Code Signal puzzle-solving on [YouTube](https://www.youtube.com/channel/UCgvj4wfFY450fZYXojwhEvA)
-
-### My web apps
-* A site for the dog community - [Oh My Dawg](www.ohmydawg.co.uk) :poodle: (currently offline)
-
-### Employment/Education
-* I've been in continual employment since 2010 working as a: 
-  * Domestic
-  * Support Worker
-  * Senior Support Worker
-  * Delivery Driver
-* I've got A levels in Math, ICT and Biology
-* I'm now a Junior Developer working for [Blink SEO](https://www.blinkseo.co.uk/)
-
-### Other interests of mine...
-:poodle:  I have such a huge love for dogs (hence my web app!)<br />
-:paw_prints: Agility<br />
-:video_game:  Exploration and story-driven video games<br />
-:bike:  Cycling whether it be on-road or in the woods<br />
-:running:  Running with my dog :poodle:<br />
-:beers: A good beer to finish a hardworking week<br />
