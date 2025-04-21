@@ -1,14 +1,12 @@
  # :wave: Hi I'm Conan (Co-nun)
 
-:computer: I am a Front End Engineer at [Blink SEO](https://www.blinkseo.co.uk/), where my journey began as a Junior Developer. I successfully completed a software development apprenticeship with [Just IT](https://www.justit.co.uk/) while contributing to various projects at Blink SEO. Among these, a standout achievement was the development of a dynamic SEO friendly faceted navigation component within Shopify, without relying on JavaScript.
+:computer: I am a Front End Shopify Developer at Quickfire, where I collaborate with the team to build fast, accessible, and visually engaging Shopify storefronts. My role involves translating client designs and requirements into high-quality, responsive interfaces while maintaining strong communication throughout the process.
 
-:book: Driven by a passion for continuous learning, I am currently immersed in Harvard's CS50 course, strengthening my foundational knowledge. Following the completion of CS50, my focus will shift towards mastering Next.js, expanding my skill set to create dynamic and efficient web applications.
+:book: I’m continuously developing my skills within the Shopify ecosystem. I regularly create development test store themes to explore new features and stay current with the latest platform updates. I’m also exploring Gadget.dev to streamline app development workflows and extend Shopify’s capabilities through custom solutions. 
 
-:poodle: Beyond the realm of coding, I find joy in the company of my two poodles and maintain a lifestyle through activities such as running, agility and challenging myself in the world of CrossFit.
+:poodle: Away from work, I enjoy spending time with my two poodles and staying active through CrossFit, running to train for Spartan races.
 
-:relaxed: I am always eager to explore new opportunities and challenges.
-
-:telescope: Right now, I'm working on a Next.js project for my job and also on a personal Next.js project about [CrossFit](https://github.com/Chascript/Crossfit) in my free time. I want to use what I learn from both to help both projects and build up my skills.
+:relaxed: I’m always open to new opportunities, conversations, and challenges.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/punkrockerpoodles) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/conan-chambers-6b5a421a1) 
